@@ -543,7 +543,7 @@ button[type="submit"]:hover {
 width: 280px;
 heigth: 380px;
 }
-.email{
+input{
 width: 200px;
 heigth:26px;
 }
