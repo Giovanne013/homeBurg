@@ -535,10 +535,18 @@ button[type="submit"]:hover {
 }
 
 /* Final footer*/
-@media (max-width: 768px) {
+@media {
     body {
         width: 100%;
     }
+.container-formulario{
+width: 280px;
+heigth: 380px;
+}
+.email{
+width: 200px;
+heigth:26px;
+}
 
 @media (max-width: 768px) {
     #img-header-size {
