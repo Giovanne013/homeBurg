@@ -2,7 +2,7 @@ body {
     /* resete estilo da pagina*/
     padding: 0;
     margin: 0;
-background-color: pink;
+background-color: blue;
 }
 
 /* Inicio ajuste dotos*/
@@ -544,6 +544,9 @@ button[type="submit"]:hover {
         margin-top: -9px;
         object-fit: contain;
     }
+.menu-item{
+    heigth:900px;
+    }
     .container-formulario{
     width: 280px;
     heigth: 380px;
@@ -557,7 +560,5 @@ button[type="submit"]:hover {
         width: auto;
         object-fit: fill;
     }
- .menu-item{
-    heigth:1000px;
-    }
+ 
 }
