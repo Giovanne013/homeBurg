@@ -544,9 +544,6 @@ button[type="submit"]:hover {
         margin-top: -9px;
         object-fit: contain;
     }
-    .menu-item{
-    heigth:1000px;
-    }
     .container-formulario{
     width: 280px;
     heigth: 380px;
@@ -559,5 +556,8 @@ button[type="submit"]:hover {
         height: 220px;
         width: auto;
         object-fit: fill;
+    }
+ .menu-item{
+    heigth:1000px;
     }
 }
