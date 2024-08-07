@@ -535,22 +535,7 @@ button[type="submit"]:hover {
 }
 
 /* Final footer*/
-@media {
-    body {
-        width: 100%;
-    }
-#menu-item-content{
-heigth:700px;
-width:100%;
-}
-.container-formulario{
-width: 280px;
-heigth: 380px;
-}
-input{
-width: 200px;
-heigth:26px;
-}
+
 
 @media (max-width: 768px) {
     #img-header-size {
@@ -559,6 +544,18 @@ heigth:26px;
         margin-top: -9px;
         object-fit: contain;
     }
+    #menu-item-content{
+heigth:700px;
+width:100%;
+}
+    .container-formulario{
+width: 280px;
+heigth: 380px;
+}
+    input{
+width: 200px;
+heigth:26px;
+}
 
 }
 
