@@ -539,6 +539,10 @@ button[type="submit"]:hover {
     body {
         width: 100%;
     }
+#menu-item-content{
+heigth:400px;
+width:100%;
+}
 .container-formulario{
 width: 280px;
 heigth: 380px;
