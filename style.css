@@ -547,9 +547,7 @@ heigth: 380px;
 width: 200px;
 heigth:26px;
 }
-form, p {
-font-size:8px;
-}
+
 @media (max-width: 768px) {
     #img-header-size {
         height: 120px;
